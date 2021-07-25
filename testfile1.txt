@@ -1,3 +1,4 @@
 This is line 1 by user A
 This is line 2 by user A
 This is line 3 by user B
+This is line 4 by user B in branch1
